@@ -37,13 +37,13 @@ if(!empty($_POST['check'])) {
 }
 echo "<html>\n";
 echo "<head>\n";
-echo "<title>Path Mass By ZeroByte.ID x VrCy</title>";
+echo "<title>File Mass By ZeroByte.ID x VrCy</title>";
 echo '<style type="text/css">body{color:#009900;background:#111111;font-family:\'Courier\'}textarea{color:#009900;background:transparent;border-color:#009900;padding:5px;}input{color:#111111;background:#009900;margin-top:10px;font-size:20px;border:2px double #009900;padding:2px;padding-left:150px;padding-right:150px;font-family:Arial}</style>';
 echo "\n</head>";
 echo "<body>\n";
 echo "<center>";
 if(empty($_POST['check'])) {
-	echo "<h1>Path Mass By ZeroByte.ID x VrCy</h1>\n";
+	echo "<h1>File Mass By ZeroByte.ID x VrCy</h1>\n";
 	echo '<form method="post">'."\n";
 	echo '<textarea name="list" placeholder="https://sainskomputer.com" style="width:700px;height:250px;">'."\n";
 	echo "</textarea><br>\n";
