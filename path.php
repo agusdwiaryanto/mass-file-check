@@ -37,7 +37,7 @@ if(!empty($_POST['check'])) {
 }
 echo "<html>\n";
 echo "<head>\n";
-echo "<title>Path Mas By ZeroByte.ID x VrCy</title>";
+echo "<title>Path Mass By ZeroByte.ID x VrCy</title>";
 echo '<style type="text/css">body{color:#009900;background:#111111;font-family:\'Courier\'}textarea{color:#009900;background:transparent;border-color:#009900;padding:5px;}input{color:#111111;background:#009900;margin-top:10px;font-size:20px;border:2px double #009900;padding:2px;padding-left:150px;padding-right:150px;font-family:Arial}</style>';
 echo "\n</head>";
 echo "<body>\n";
@@ -59,5 +59,4 @@ echo "</center>\n";
 echo "</body>\n";
 echo "</html>";
 
-// Recoded? only changed and delete copyright? Don't be a bastard dude!
 ?>
